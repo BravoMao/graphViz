@@ -9,7 +9,7 @@ sudo apt-get install graphviz
 ```
 
 
-## Running example
+## Running example master
 ```
 dot -Tpng -O demoBasic.dot
 xdg-open demoBasic.dot.png
