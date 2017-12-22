@@ -8,7 +8,7 @@ You need to install GraphViz
 sudo apt-get install graphviz
 ```
 
-## Running example test4 test 
+## Running example test4 test
 ```
 dot -Tpng -O demoBasic.dot
 xdg-open demoBasic.dot.png
